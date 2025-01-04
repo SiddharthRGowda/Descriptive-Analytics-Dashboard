@@ -2,7 +2,8 @@
 ## SCIENTIFIC COMPUTING:  INFERENTIAL & DESCRIPTIVE STATISTICS
 ## DATA-DRIVEN WEB APPLICATIONS: PYTHON & STREAMLIT
 
-
+[LIVE DEMO]
+https://descriptive-analytics-dashboard-9lp38hncajcmhqo5tvqpsq.streamlit.app/
 
 # TARGET AUDIENCE
 
